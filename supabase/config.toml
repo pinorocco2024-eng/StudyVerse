@@ -1,0 +1,4 @@
+project_id = "sxmskbobdyezbadzndpx"
+
+[functions.generate-study-content]
+verify_jwt = false
